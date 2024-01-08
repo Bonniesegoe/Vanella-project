@@ -1,7 +1,7 @@
 function handleSearchSubmit(event) {
   event.preventDefault();
   let searchInput = document.querySelector("#search-form-input");
-  console.log(searchInput.vlaue);
+
   let cityElement = document.querySelector("#city")
 }
 
